@@ -1,4 +1,4 @@
-#Safe Area
+# Safe Area
 In iOS 11 Apple has introduced the **safe area**, deprecated **topLayoutGuide** and **bottomLayout** properties from UIViewController. It is recommended to use safe area for placing controls within the container.
 
 Sate area becomes clear when Apple introduce notch devices particularly from iPhone X. Our goal is do describe how to use safe area safely.
